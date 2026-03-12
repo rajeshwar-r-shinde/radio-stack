@@ -1,0 +1,4 @@
+sudo apt install libdbus-1-dev
+sudo apt install libdbus-glib-1-dev
+
+
